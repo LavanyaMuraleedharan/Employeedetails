@@ -1,0 +1,21 @@
+.app-header {
+  background: linear-gradient(90deg, #6ad7b1 0%, #9350ff 100%);
+  color: #fff;
+  padding: 1rem 0;
+}
+.header-inner {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  align-items: flex-start;
+}
+.app-title {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.app-subtitle {
+  margin: 0;
+  font-size: 0.95rem;
+  opacity: 0.92;
+}
